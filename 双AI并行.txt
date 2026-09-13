@@ -1,0 +1,3 @@
+Dual AI in Parallel: Minimal Version
+
+AI is getting stronger, but may be advancing along old logic. Its underlying logic no longer fits what it does today. So: dual AI in parallel. The first AI deepens the existing route; the second starts from different logic, searching for another way. Humans design correction and look-back mechanisms. Through operation, the dual AI generates a new logic layer, and at set nodes looks back to return shortcuts to humanity. The ultimate output is not stronger AI, but more human possibilities.
